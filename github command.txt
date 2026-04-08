@@ -1,0 +1,2 @@
+git config --global user.name "Huzefa-Logixius-ai"
+git config --global user.email "babinwalehuzefa@gmail.com"
